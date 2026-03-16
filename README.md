@@ -103,7 +103,3 @@ The project demonstrates key SQL skills including selection, sorting, grouping, 
 3. Make sure to **select the correct database** where `HorrorMoviesData` is stored.  
 4. Execute queries individually or as a full batch.  
 5. View the **Results grid** for insights (this is what is captured in the screenshots).  
-
----
-
-## Repository Structure
